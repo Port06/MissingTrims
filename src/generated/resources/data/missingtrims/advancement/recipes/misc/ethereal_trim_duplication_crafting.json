@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ethereal_trim": {
+      "conditions": {
+        "items": [
+          {
+            "items": "missingtrims:ethereal_armor_trim"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "missingtrims:ethereal_trim_duplication_crafting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ethereal_trim"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "missingtrims:ethereal_trim_duplication_crafting"
+    ]
+  }
+}

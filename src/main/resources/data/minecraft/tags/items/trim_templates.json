@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "missingtrims:snowflake_armor_trim",
+    "missingtrims:crawler_armor_trim",
+    "missingtrims:crack_armor_trim",
+    "missingtrims:mystic_armor_trim",
+    "missingtrims:ethereal_armor_trim"
+  ]
+}

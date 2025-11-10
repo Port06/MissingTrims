@@ -1,0 +1,8 @@
+{
+  "asset_id": "missingtrims:crawler",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.missingtrims.crawler"
+  },
+  "template_item": "missingtrims:crawler_armor_trim"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "Y": {
+      "item": "missingtrims:crawler_armor_trim"
+    },
+    "Z": {
+      "item": "minecraft:mossy_cobblestone"
+    }
+  },
+  "pattern": [
+    "XYX",
+    "XZX",
+    "XXX"
+  ],
+  "result": {
+    "count": 2,
+    "id": "missingtrims:crawler_armor_trim"
+  }
+}

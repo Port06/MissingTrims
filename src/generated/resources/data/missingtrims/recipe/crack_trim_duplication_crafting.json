@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "Y": {
+      "item": "missingtrims:crack_armor_trim"
+    },
+    "Z": {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  },
+  "pattern": [
+    "XYX",
+    "XZX",
+    "XXX"
+  ],
+  "result": {
+    "count": 2,
+    "id": "missingtrims:crack_armor_trim"
+  }
+}

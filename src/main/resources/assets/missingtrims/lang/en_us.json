@@ -1,7 +1,14 @@
 {
-  "item.missingtrims.snowflake_armor_trim": "Snowflake Armor Trim",
-  "item.missingtrims.crawler_armor_trim": "Crawler Armor Trim",
-  "item.missingtrims.crack_armor_trim": "Crack Armor Trim",
-  "item.missingtrims.mystic_armor_trim": "Mystic Armor Trim",
-  "item.missingtrims.ethereal_armor_trim": "Ethereal Armor Trim"
+  "trim_pattern.missingtrims.snowflake": "Snowflake",
+  "trim_pattern.missingtrims.crawler": "Crawler",
+  "trim_pattern.missingtrims.crack": "Crack",
+  "trim_pattern.missingtrims.mystic": "Mystic",
+  "trim_pattern.missingtrims.ethereal": "Ethereal",
+  "item.missingtrims.snowflake_armor_trim": "Snowflake Smithing Template",
+  "item.missingtrims.crawler_armor_trim": "Crawler Smithing Template",
+  "item.missingtrims.crack_armor_trim": "Crack Smithing Template",
+  "item.missingtrims.mystic_armor_trim": "Mystic Smithing Template",
+  "item.missingtrims.ethereal_armor_trim": "Ethereal Smithing Template",
+  "advancements.adventure.even_more_stylish.title": "Even More Stylish",
+  "advancements.adventure.even_more_stylish.description": "Apply any of the Missing Trims custom armor patterns"
 }

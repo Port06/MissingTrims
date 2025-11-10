@@ -1,0 +1,8 @@
+{
+  "asset_id": "missingtrims:crack",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.missingtrims.crack"
+  },
+  "template_item": "missingtrims:crack_armor_trim"
+}

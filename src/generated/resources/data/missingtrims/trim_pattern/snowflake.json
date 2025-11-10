@@ -1,0 +1,8 @@
+{
+  "asset_id": "missingtrims:snowflake",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.missingtrims.snowflake"
+  },
+  "template_item": "missingtrims:snowflake_armor_trim"
+}

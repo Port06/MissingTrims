@@ -1,0 +1,8 @@
+{
+  "asset_id": "missingtrims:ethereal",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.missingtrims.ethereal"
+  },
+  "template_item": "missingtrims:ethereal_armor_trim"
+}

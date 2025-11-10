@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_crack_trim": {
+      "conditions": {
+        "items": [
+          {
+            "items": "missingtrims:crack_armor_trim"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "missingtrims:crack_trim_duplication_crafting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_crack_trim"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "missingtrims:crack_trim_duplication_crafting"
+    ]
+  }
+}

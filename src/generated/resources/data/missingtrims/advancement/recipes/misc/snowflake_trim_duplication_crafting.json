@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_snowflake_trim": {
+      "conditions": {
+        "items": [
+          {
+            "items": "missingtrims:snowflake_armor_trim"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "missingtrims:snowflake_trim_duplication_crafting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_snowflake_trim"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "missingtrims:snowflake_trim_duplication_crafting"
+    ]
+  }
+}

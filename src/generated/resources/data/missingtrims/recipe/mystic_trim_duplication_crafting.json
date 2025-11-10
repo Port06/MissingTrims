@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "Y": {
+      "item": "missingtrims:mystic_armor_trim"
+    },
+    "Z": {
+      "item": "minecraft:magenta_terracotta"
+    }
+  },
+  "pattern": [
+    "XYX",
+    "XZX",
+    "XXX"
+  ],
+  "result": {
+    "count": 2,
+    "id": "missingtrims:mystic_armor_trim"
+  }
+}

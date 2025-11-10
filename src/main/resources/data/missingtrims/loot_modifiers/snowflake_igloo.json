@@ -1,10 +1,11 @@
 {
-  "type": "neoforge:add_table",
+  "type": "missingtrims:add_item",
   "conditions": [
     {
       "condition": "neoforge:loot_table_id",
       "loot_table_id": "minecraft:chests/igloo_chest"
     }
   ],
-  "table": "missingtrims:chests/snowflake_in_igloo"
+  "item": "missingtrims:snowflake_armor_trim",
+  "chance": 1
 }

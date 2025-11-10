@@ -1,0 +1,8 @@
+{
+  "asset_id": "missingtrims:mystic",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.missingtrims.mystic"
+  },
+  "template_item": "missingtrims:mystic_armor_trim"
+}
